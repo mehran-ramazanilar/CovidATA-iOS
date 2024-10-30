@@ -1,0 +1,2233 @@
+[{
+        "Country": "Ukraine",
+        "Slug": "ukraine",
+        "ISO2": "UA",
+        "latlng": [
+            49,
+            32
+        ]
+    },
+    {
+        "Country": "China",
+        "Slug": "china",
+        "ISO2": "CN",
+        "latlng": [
+            35,
+            105
+        ]
+    },
+    {
+        "Country": "Cocos (Keeling) Islands",
+        "Slug": "cocos-keeling-islands",
+        "ISO2": "CC",
+        "latlng": [
+            -12.5,
+            96.83333333
+        ]
+    },
+    {
+        "Country": "Cuba",
+        "Slug": "cuba",
+        "ISO2": "CU",
+        "latlng": [
+            21.5,
+            -80
+        ]
+    },
+    {
+        "Country": "Jordan",
+        "Slug": "jordan",
+        "ISO2": "JO",
+        "latlng": [
+            31,
+            36
+        ]
+    },
+    {
+        "Country": "Lao PDR",
+        "Slug": "lao-pdr",
+        "ISO2": "LA",
+        "latlng": [
+            18,
+            105
+        ]
+    },
+    {
+        "Country": "Morocco",
+        "Slug": "morocco",
+        "ISO2": "MA",
+        "latlng": [
+            32,
+            -5
+        ]
+    },
+    {
+        "Country": "British Indian Ocean Territory",
+        "Slug": "british-indian-ocean-territory",
+        "ISO2": "IO",
+        "latlng": [
+            -6,
+            71.5
+        ]
+    },
+    {
+        "Country": "Comoros",
+        "Slug": "comoros",
+        "ISO2": "KM",
+        "latlng": [
+            -12.16666666,
+            44.25
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Slug": "japan",
+        "ISO2": "JP",
+        "latlng": [
+            36,
+            138
+        ]
+    },
+    {
+        "Country": "Niger",
+        "Slug": "niger",
+        "ISO2": "NE",
+        "latlng": [
+            16,
+            8
+        ]
+    },
+    {
+        "Country": "Uganda",
+        "Slug": "uganda",
+        "ISO2": "UG",
+        "latlng": [
+            1,
+            32
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Slug": "brazil",
+        "ISO2": "BR",
+        "latlng": [
+            -10,
+            -55
+        ]
+    },
+    {
+        "Country": "Egypt",
+        "Slug": "egypt",
+        "ISO2": "EG",
+        "latlng": [
+            27,
+            30
+        ]
+    },
+    {
+        "Country": "Romania",
+        "Slug": "romania",
+        "ISO2": "RO",
+        "latlng": [
+            46,
+            25
+        ]
+    },
+    {
+        "Country": "Tunisia",
+        "Slug": "tunisia",
+        "ISO2": "TN",
+        "latlng": [
+            34,
+            9
+        ]
+    },
+    {
+        "Country": "Belgium",
+        "Slug": "belgium",
+        "ISO2": "BE",
+        "latlng": [
+            50.83333333,
+            4
+        ]
+    },
+    {
+        "Country": "Cook Islands",
+        "Slug": "cook-islands",
+        "ISO2": "CK",
+        "latlng": [
+            -21.23333333,
+            -159.76666666
+        ]
+    },
+    {
+        "Country": "Philippines",
+        "Slug": "philippines",
+        "ISO2": "PH",
+        "latlng": [
+            13,
+            122
+        ]
+    },
+    {
+        "Country": "Swaziland",
+        "Slug": "swaziland",
+        "ISO2": "SZ",
+        "latlng": [
+            47,
+            8
+        ]
+    },
+    {
+        "Country": "ALA Aland Islands",
+        "Slug": "ala-aland-islands",
+        "ISO2": "AX",
+        "latlng": [
+            60.116667,
+            19.9
+        ]
+    },
+    {
+        "Country": "Austria",
+        "Slug": "austria",
+        "ISO2": "AT",
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ]
+    },
+    {
+        "Country": "Sweden",
+        "Slug": "sweden",
+        "ISO2": "SE",
+        "latlng": [
+            62,
+            15
+        ]
+    },
+    {
+        "Country": "Jersey",
+        "Slug": "jersey",
+        "ISO2": "JE",
+        "latlng": [
+            49.25,
+            -2.16666666
+        ]
+    },
+    {
+        "Country": "Norway",
+        "Slug": "norway",
+        "ISO2": "NO",
+        "latlng": [
+            62,
+            10
+        ]
+    },
+    {
+        "Country": "Peru",
+        "Slug": "peru",
+        "ISO2": "PE",
+        "latlng": [
+            -10,
+            -76
+        ]
+    },
+    {
+        "Country": "Saint-Martin (French part)",
+        "Slug": "saint-martin-french-part",
+        "ISO2": "MF",
+        "latlng": [
+            18.08333333,
+            -63.95
+        ]
+    },
+    {
+        "Country": "Djibouti",
+        "Slug": "djibouti",
+        "ISO2": "DJ",
+        "latlng": [
+            11.5,
+            43
+        ]
+    },
+    {
+        "Country": "Korea (South)",
+        "Slug": "korea-south",
+        "ISO2": "KR",
+        "latlng": [
+            37,
+            127.5
+        ]
+    },
+    {
+        "Country": "San Marino",
+        "Slug": "san-marino",
+        "ISO2": "SM",
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Slug": "turkey",
+        "ISO2": "TR",
+        "latlng": [
+            39,
+            35
+        ]
+    },
+    {
+        "Country": "Benin",
+        "Slug": "benin",
+        "ISO2": "BJ",
+        "latlng": [
+            9.5,
+            2.25
+        ]
+    },
+    {
+        "Country": "Fiji",
+        "Slug": "fiji",
+        "ISO2": "FJ",
+        "latlng": [
+            -18,
+            175
+        ]
+    },
+    {
+        "Country": "Guinea",
+        "Slug": "guinea",
+        "ISO2": "GN",
+        "latlng": [
+            11,
+            -10
+        ]
+    },
+    {
+        "Country": "Mayotte",
+        "Slug": "mayotte",
+        "ISO2": "YT",
+        "latlng": [
+            -12.83333333,
+            45.16666666
+        ]
+    },
+    {
+        "Country": "Northern Mariana Islands",
+        "Slug": "northern-mariana-islands",
+        "ISO2": "MP",
+        "latlng": [
+            15.2,
+            145.75
+        ]
+    },
+    {
+        "Country": "Bahrain",
+        "Slug": "bahrain",
+        "ISO2": "BH",
+        "latlng": [
+            26,
+            50.55
+        ]
+    },
+    {
+        "Country": "Belarus",
+        "Slug": "belarus",
+        "ISO2": "BY",
+        "latlng": [
+            53,
+            28
+        ]
+    },
+    {
+        "Country": "Honduras",
+        "Slug": "honduras",
+        "ISO2": "HN",
+        "latlng": [
+            15,
+            -86.5
+        ]
+    },
+    {
+        "Country": "Liechtenstein",
+        "Slug": "liechtenstein",
+        "ISO2": "LI",
+        "latlng": [
+            47.26666666,
+            9.53333333
+        ]
+    },
+    {
+        "Country": "Iraq",
+        "Slug": "iraq",
+        "ISO2": "IQ",
+        "latlng": [
+            33,
+            44
+        ]
+    },
+    {
+        "Country": "Montenegro",
+        "Slug": "montenegro",
+        "ISO2": "ME",
+        "latlng": [
+            42.5,
+            19.3
+        ]
+    },
+    {
+        "Country": "Paraguay",
+        "Slug": "paraguay",
+        "ISO2": "PY",
+        "latlng": [
+            -23,
+            -58
+        ]
+    },
+    {
+        "Country": "Saint Lucia",
+        "Slug": "saint-lucia",
+        "ISO2": "LC",
+        "latlng": [
+            13.88333333,
+            -60.96666666
+        ]
+    },
+    {
+        "Country": "South Sudan",
+        "Slug": "south-sudan",
+        "ISO2": "SS",
+        "latlng": [
+            7,
+            30
+        ]
+    },
+    {
+        "Country": "Isle of Man",
+        "Slug": "isle-of-man",
+        "ISO2": "IM",
+        "latlng": [
+            54.25,
+            -4.5
+        ]
+    },
+    {
+        "Country": "Sudan",
+        "Slug": "sudan",
+        "ISO2": "SD",
+        "latlng": [
+            15,
+            30
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Slug": "indonesia",
+        "ISO2": "ID",
+        "latlng": [
+            -5,
+            120
+        ]
+    },
+    {
+        "Country": "Uruguay",
+        "Slug": "uruguay",
+        "ISO2": "UY",
+        "latlng": [
+            -33,
+            -56
+        ]
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Slug": "bosnia-and-herzegovina",
+        "ISO2": "BA",
+        "latlng": [
+            44,
+            18
+        ]
+    },
+    {
+        "Country": "Guatemala",
+        "Slug": "guatemala",
+        "ISO2": "GT",
+        "latlng": [
+            15.5,
+            -90.25
+        ]
+    },
+    {
+        "Country": "Kuwait",
+        "Slug": "kuwait",
+        "ISO2": "KW",
+        "latlng": [
+            29.5,
+            45.75
+        ]
+    },
+    {
+        "Country": "Latvia",
+        "Slug": "latvia",
+        "ISO2": "LV",
+        "latlng": [
+            57,
+            25
+        ]
+    },
+    {
+        "Country": "Macao, SAR China",
+        "Slug": "macao-sar-china",
+        "ISO2": "MO",
+        "latlng": [
+            22.16666666,
+            113.55
+        ]
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Slug": "trinidad-and-tobago",
+        "ISO2": "TT",
+        "latlng": [
+            11,
+            -61
+        ]
+    },
+    {
+        "Country": "Anguilla",
+        "Slug": "anguilla",
+        "ISO2": "AI",
+        "latlng": [
+            18.25,
+            -63.16666666
+        ]
+    },
+    {
+        "Country": "Korea (North)",
+        "Slug": "korea-north",
+        "ISO2": "KP",
+        "latlng": [
+            40,
+            127
+        ]
+    },
+    {
+        "Country": "Lesotho",
+        "Slug": "lesotho",
+        "ISO2": "LS",
+        "latlng": [
+            -29.5,
+            28.5
+        ]
+    },
+    {
+        "Country": "Oman",
+        "Slug": "oman",
+        "ISO2": "OM",
+        "latlng": [
+            21,
+            57
+        ]
+    },
+    {
+        "Country": "South Georgia and the South Sandwich Islands",
+        "Slug": "south-georgia-and-the-south-sandwich-islands",
+        "ISO2": "GS",
+        "latlng": [
+            -54.5,
+            -37
+        ]
+    },
+    {
+        "Country": "Bolivia",
+        "Slug": "bolivia",
+        "ISO2": "BO",
+        "latlng": [
+            -17,
+            -65
+        ]
+    },
+    {
+        "Country": "Tanzania, United Republic of",
+        "Slug": "tanzania",
+        "ISO2": "TZ",
+        "latlng": [
+            -6,
+            35
+        ]
+    },
+    {
+        "Country": "Venezuela (Bolivarian Republic)",
+        "Slug": "venezuela",
+        "ISO2": "VE",
+        "latlng": [
+            8,
+            -66
+        ]
+    },
+    {
+        "Country": "Barbados",
+        "Slug": "barbados",
+        "ISO2": "BB",
+        "latlng": [
+            13.16666666,
+            -59.53333333
+        ]
+    },
+    {
+        "Country": "Iceland",
+        "Slug": "iceland",
+        "ISO2": "IS",
+        "latlng": [
+            65,
+            -18
+        ]
+    },
+    {
+        "Country": "Montserrat",
+        "Slug": "montserrat",
+        "ISO2": "MS",
+        "latlng": [
+            16.75,
+            -62.2
+        ]
+    },
+    {
+        "Country": "Palau",
+        "Slug": "palau",
+        "ISO2": "PW",
+        "latlng": [
+            7.5,
+            134.5
+        ]
+    },
+    {
+        "Country": "Réunion",
+        "Slug": "réunion",
+        "ISO2": "RE",
+        "latlng": [
+            -21.15,
+            55.5
+        ]
+    },
+    {
+        "Country": "New Caledonia",
+        "Slug": "new-caledonia",
+        "ISO2": "NC",
+        "latlng": [
+            -21.5,
+            165.5
+        ]
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Slug": "antigua-and-barbuda",
+        "ISO2": "AG",
+        "latlng": [
+            17.05,
+            -61.8
+        ]
+    },
+    {
+        "Country": "Botswana",
+        "Slug": "botswana",
+        "ISO2": "BW",
+        "latlng": [
+            -22,
+            24
+        ]
+    },
+    {
+        "Country": "Sri Lanka",
+        "Slug": "sri-lanka",
+        "ISO2": "LK",
+        "latlng": [
+            7,
+            81
+        ]
+    },
+    {
+        "Country": "Algeria",
+        "Slug": "algeria",
+        "ISO2": "DZ",
+        "latlng": [
+            28,
+            3
+        ]
+    },
+    {
+        "Country": "Czech Republic",
+        "Slug": "czech-republic",
+        "ISO2": "CZ",
+        "latlng": [
+            49.75,
+            15.5
+        ]
+    },
+    {
+        "Country": "Finland",
+        "Slug": "finland",
+        "ISO2": "FI",
+        "latlng": [
+            64,
+            26
+        ]
+    },
+    {
+        "Country": "Greece",
+        "Slug": "greece",
+        "ISO2": "GR",
+        "latlng": [
+            39,
+            22
+        ]
+    },
+    {
+        "Country": "Guam",
+        "Slug": "guam",
+        "ISO2": "GU",
+        "latlng": [
+            13.46666666,
+            144.78333333
+        ]
+    },
+    {
+        "Country": "Vanuatu",
+        "Slug": "vanuatu",
+        "ISO2": "VU",
+        "latlng": [
+            -16,
+            167
+        ]
+    },
+    {
+        "Country": "Bhutan",
+        "Slug": "bhutan",
+        "ISO2": "BT",
+        "latlng": [
+            27.5,
+            90.5
+        ]
+    },
+    {
+        "Country": "Slovakia",
+        "Slug": "slovakia",
+        "ISO2": "SK",
+        "latlng": [
+            48.66666666,
+            19.5
+        ]
+    },
+    {
+        "Country": "Guernsey",
+        "Slug": "guernsey",
+        "ISO2": "GG",
+        "latlng": [
+            49.46666666,
+            -2.58333333
+        ]
+    },
+    {
+        "Country": "Tokelau",
+        "Slug": "tokelau",
+        "ISO2": "TK",
+        "latlng": [
+            -9,
+            -172
+        ]
+    },
+    {
+        "Country": "United States of America",
+        "Slug": "united-states",
+        "ISO2": "US",
+        "latlng": [
+            38,
+            -97
+        ]
+    },
+    {
+        "Country": "Saint Helena",
+        "Slug": "saint-helena",
+        "ISO2": "SH",
+        "latlng": [
+            -15.9333,
+            -5.7
+        ]
+    },
+    {
+        "Country": "Wallis and Futuna Islands",
+        "Slug": "wallis-and-futuna-islands",
+        "ISO2": "WF",
+        "latlng": [
+            -13.3,
+            -176.2
+        ]
+    },
+    {
+        "Country": "British Virgin Islands",
+        "Slug": "british-virgin-islands",
+        "ISO2": "VG",
+        "latlng": [
+            18.431383,
+            -64.62305
+        ]
+    },
+    {
+        "Country": "Burundi",
+        "Slug": "burundi",
+        "ISO2": "BI",
+        "latlng": [
+            -3.5,
+            30
+        ]
+    },
+    {
+        "Country": "France",
+        "Slug": "france",
+        "ISO2": "FR",
+        "latlng": [
+            46,
+            2
+        ]
+    },
+    {
+        "Country": "Iran, Islamic Republic of",
+        "Slug": "iran",
+        "ISO2": "IR",
+        "latlng": [
+            32,
+            53
+        ]
+    },
+    {
+        "Country": "Libya",
+        "Slug": "libya",
+        "ISO2": "LY",
+        "latlng": [
+            25,
+            17
+        ]
+    },
+    {
+        "Country": "Mozambique",
+        "Slug": "mozambique",
+        "ISO2": "MZ",
+        "latlng": [
+            -18.25,
+            35
+        ]
+    },
+    {
+        "Country": "Eritrea",
+        "Slug": "eritrea",
+        "ISO2": "ER",
+        "latlng": [
+            15,
+            39
+        ]
+    },
+    {
+        "Country": "Martinique",
+        "Slug": "martinique",
+        "ISO2": "MQ",
+        "latlng": [
+            14.666667,
+            -61
+        ]
+    },
+    {
+        "Country": "Palestinian Territory",
+        "Slug": "palestine",
+        "ISO2": "PS",
+        "latlng": [
+            31.9,
+            35.2
+        ]
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Slug": "united-arab-emirates",
+        "ISO2": "AE",
+        "latlng": [
+            24,
+            54
+        ]
+    },
+    {
+        "Country": "Dominica",
+        "Slug": "dominica",
+        "ISO2": "DM",
+        "latlng": [
+            15.41666666,
+            -61.33333333
+        ]
+    },
+    {
+        "Country": "Falkland Islands (Malvinas)",
+        "Slug": "falkland-islands-malvinas",
+        "ISO2": "FK",
+        "latlng": [
+            -51.75,
+            -59
+        ]
+    },
+    {
+        "Country": "Singapore",
+        "Slug": "singapore",
+        "ISO2": "SG",
+        "latlng": [
+            1.36666666,
+            103.8
+        ]
+    },
+    {
+        "Country": "Timor-Leste",
+        "Slug": "timor-leste",
+        "ISO2": "TL",
+        "latlng": [
+            -8.83333333,
+            125.91666666
+        ]
+    },
+    {
+        "Country": "Aruba",
+        "Slug": "aruba",
+        "ISO2": "AW",
+        "latlng": [
+            12.5,
+            -69.96666666
+        ]
+    },
+    {
+        "Country": "Cambodia",
+        "Slug": "cambodia",
+        "ISO2": "KH",
+        "latlng": [
+            13,
+            105
+        ]
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Slug": "papua-new-guinea",
+        "ISO2": "PG",
+        "latlng": [
+            -6,
+            147
+        ]
+    },
+    {
+        "Country": "Rwanda",
+        "Slug": "rwanda",
+        "ISO2": "RW",
+        "latlng": [
+            -2,
+            30
+        ]
+    },
+    {
+        "Country": "Vietnam",
+        "Slug": "vietnam",
+        "ISO2": "VN",
+        "latlng": [
+            16.16666666,
+            107.83333333
+        ]
+    },
+    {
+        "Country": "Bangladesh",
+        "Slug": "bangladesh",
+        "ISO2": "BD",
+        "latlng": [
+            24,
+            90
+        ]
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Slug": "equatorial-guinea",
+        "ISO2": "GQ",
+        "latlng": [
+            2,
+            10
+        ]
+    },
+    {
+        "Country": "Macedonia, Republic of",
+        "Slug": "macedonia",
+        "ISO2": "MK",
+        "latlng": [
+            41.83333333,
+            22
+        ]
+    },
+    {
+        "Country": "Mali",
+        "Slug": "mali",
+        "ISO2": "ML",
+        "latlng": [
+            17,
+            -4
+        ]
+    },
+    {
+        "Country": "Samoa",
+        "Slug": "samoa",
+        "ISO2": "WS",
+        "latlng": [
+            -13.58333333,
+            -172.33333333
+        ]
+    },
+    {
+        "Country": "Somalia",
+        "Slug": "somalia",
+        "ISO2": "SO",
+        "latlng": [
+            10,
+            49
+        ]
+    },
+    {
+        "Country": "Faroe Islands",
+        "Slug": "faroe-islands",
+        "ISO2": "FO",
+        "latlng": [
+            62,
+            -7
+        ]
+    },
+    {
+        "Country": "Haiti",
+        "Slug": "haiti",
+        "ISO2": "HT",
+        "latlng": [
+            19,
+            -72.41666666
+        ]
+    },
+    {
+        "Country": "Costa Rica",
+        "Slug": "costa-rica",
+        "ISO2": "CR",
+        "latlng": [
+            10,
+            -84
+        ]
+    },
+    {
+        "Country": "Niue",
+        "Slug": "niue",
+        "ISO2": "NU",
+        "latlng": [
+            -19.03333333,
+            -169.86666666
+        ]
+    },
+    {
+        "Country": "Poland",
+        "Slug": "poland",
+        "ISO2": "PL",
+        "latlng": [
+            52,
+            20
+        ]
+    },
+    {
+        "Country": "Tonga",
+        "Slug": "tonga",
+        "ISO2": "TO",
+        "latlng": [
+            -20,
+            -175
+        ]
+    },
+    {
+        "Country": "Saint Vincent and Grenadines",
+        "Slug": "saint-vincent-and-the-grenadines",
+        "ISO2": "VC",
+        "latlng": [
+            13.25,
+            -61.2
+        ]
+    },
+    {
+        "Country": "Chad",
+        "Slug": "chad",
+        "ISO2": "TD",
+        "latlng": [
+            15,
+            19
+        ]
+    },
+    {
+        "Country": "Colombia",
+        "Slug": "colombia",
+        "ISO2": "CO",
+        "latlng": [
+            4,
+            -72
+        ]
+    },
+    {
+        "Country": "French Southern Territories",
+        "Slug": "french-southern-territories",
+        "ISO2": "TF",
+        "latlng": [
+            -49.25,
+            69.167
+        ]
+    },
+    {
+        "Country": "Bahamas",
+        "Slug": "bahamas",
+        "ISO2": "BS",
+        "latlng": [
+            24.25,
+            -76
+        ]
+    },
+    {
+        "Country": "Mongolia",
+        "Slug": "mongolia",
+        "ISO2": "MN",
+        "latlng": [
+            46,
+            105
+        ]
+    },
+    {
+        "Country": "Nicaragua",
+        "Slug": "nicaragua",
+        "ISO2": "NI",
+        "latlng": [
+            13,
+            -85
+        ]
+    },
+    {
+        "Country": "Afghanistan",
+        "Slug": "afghanistan",
+        "ISO2": "AF",
+        "latlng": [
+            33,
+            65
+        ]
+    },
+    {
+        "Country": "Antarctica",
+        "Slug": "antarctica",
+        "ISO2": "AQ",
+        "latlng": [
+            -90,
+            0
+        ]
+    },
+    {
+        "Country": "Russian Federation",
+        "Slug": "russia",
+        "ISO2": "RU",
+        "latlng": [
+            60,
+            100
+        ]
+    },
+    {
+        "Country": "Saint-Barthélemy",
+        "Slug": "saint-barthélemy",
+        "ISO2": "BL",
+        "latlng": [
+            18.5,
+            -63.41666666
+        ]
+    },
+    {
+        "Country": "Senegal",
+        "Slug": "senegal",
+        "ISO2": "SN",
+        "latlng": [
+            14,
+            -14
+        ]
+    },
+    {
+        "Country": "Liberia",
+        "Slug": "liberia",
+        "ISO2": "LR",
+        "latlng": [
+            6.5,
+            -9.5
+        ]
+    },
+    {
+        "Country": "Malawi",
+        "Slug": "malawi",
+        "ISO2": "MW",
+        "latlng": [
+            -13.5,
+            34
+        ]
+    },
+    {
+        "Country": "Panama",
+        "Slug": "panama",
+        "ISO2": "PA",
+        "latlng": [
+            9,
+            -80
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Slug": "spain",
+        "ISO2": "ES",
+        "latlng": [
+            40,
+            -4
+        ]
+    },
+    {
+        "Country": "American Samoa",
+        "Slug": "american-samoa",
+        "ISO2": "AS",
+        "latlng": [
+            -14.33333333,
+            -170
+        ]
+    },
+    {
+        "Country": "Thailand",
+        "Slug": "thailand",
+        "ISO2": "TH",
+        "latlng": [
+            15,
+            100
+        ]
+    },
+    {
+        "Country": "Serbia",
+        "Slug": "serbia",
+        "ISO2": "RS",
+        "latlng": [
+            44,
+            21
+        ]
+    },
+    {
+        "Country": "Sierra Leone",
+        "Slug": "sierra-leone",
+        "ISO2": "SL",
+        "latlng": [
+            8.5,
+            -11.5
+        ]
+    },
+    {
+        "Country": "Bulgaria",
+        "Slug": "bulgaria",
+        "ISO2": "BG",
+        "latlng": [
+            43,
+            25
+        ]
+    },
+    {
+        "Country": "Lebanon",
+        "Slug": "lebanon",
+        "ISO2": "LB",
+        "latlng": [
+            33.83333333,
+            35.83333333
+        ]
+    },
+    {
+        "Country": "Portugal",
+        "Slug": "portugal",
+        "ISO2": "PT",
+        "latlng": [
+            39.5,
+            -8
+        ]
+    },
+    {
+        "Country": "Puerto Rico",
+        "Slug": "puerto-rico",
+        "ISO2": "PR",
+        "latlng": [
+            18.25,
+            -66.5
+        ]
+    },
+    {
+        "Country": "Tajikistan",
+        "Slug": "tajikistan",
+        "ISO2": "TJ",
+        "latlng": [
+            39,
+            71
+        ]
+    },
+    {
+        "Country": "French Polynesia",
+        "Slug": "french-polynesia",
+        "ISO2": "PF",
+        "latlng": [
+            -15,
+            -140
+        ]
+    },
+    {
+        "Country": "Turkmenistan",
+        "Slug": "turkmenistan",
+        "ISO2": "TM",
+        "latlng": [
+            40,
+            60
+        ]
+    },
+    {
+        "Country": "Croatia",
+        "Slug": "croatia",
+        "ISO2": "HR",
+        "latlng": [
+            45.16666666,
+            15.5
+        ]
+    },
+    {
+        "Country": "Israel",
+        "Slug": "israel",
+        "ISO2": "IL",
+        "latlng": [
+            31.47,
+            35.13
+        ]
+    },
+    {
+        "Country": "Maldives",
+        "Slug": "maldives",
+        "ISO2": "MV",
+        "latlng": [
+            3.25,
+            73
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Slug": "argentina",
+        "ISO2": "AR",
+        "latlng": [
+            -34,
+            -64
+        ]
+    },
+    {
+        "Country": "Bouvet Island",
+        "Slug": "bouvet-island",
+        "ISO2": "BV",
+        "latlng": [
+            -54.43333333,
+            3.4
+        ]
+    },
+    {
+        "Country": "Estonia",
+        "Slug": "estonia",
+        "ISO2": "EE",
+        "latlng": [
+            59,
+            26
+        ]
+    },
+    {
+        "Country": "Malaysia",
+        "Slug": "malaysia",
+        "ISO2": "MY",
+        "latlng": [
+            2.5,
+            112.5
+        ]
+    },
+    {
+        "Country": "Norfolk Island",
+        "Slug": "norfolk-island",
+        "ISO2": "NF",
+        "latlng": [
+            -29.03333333,
+            167.95
+        ]
+    },
+    {
+        "Country": "Solomon Islands",
+        "Slug": "solomon-islands",
+        "ISO2": "SB",
+        "latlng": [
+            -8,
+            159
+        ]
+    },
+    {
+        "Country": "Gibraltar",
+        "Slug": "gibraltar",
+        "ISO2": "GI",
+        "latlng": [
+            36.13333333,
+            -5.35
+        ]
+    },
+    {
+        "Country": "New Zealand",
+        "Slug": "new-zealand",
+        "ISO2": "NZ",
+        "latlng": [
+            -41,
+            174
+        ]
+    },
+    {
+        "Country": "Albania",
+        "Slug": "albania",
+        "ISO2": "AL",
+        "latlng": [
+            41,
+            20
+        ]
+    },
+    {
+        "Country": "Grenada",
+        "Slug": "grenada",
+        "ISO2": "GD",
+        "latlng": [
+            12.11666666,
+            -61.66666666
+        ]
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Slug": "guinea-bissau",
+        "ISO2": "GW",
+        "latlng": [
+            12,
+            -15
+        ]
+    },
+    {
+        "Country": "Western Sahara",
+        "Slug": "western-sahara",
+        "ISO2": "EH",
+        "latlng": [
+            24.5,
+            -13
+        ]
+    },
+    {
+        "Country": "Cyprus",
+        "Slug": "cyprus",
+        "ISO2": "CY",
+        "latlng": [
+            35,
+            33
+        ]
+    },
+    {
+        "Country": "Gambia",
+        "Slug": "gambia",
+        "ISO2": "GM",
+        "latlng": [
+            13.46666666,
+            -16.56666666
+        ]
+    },
+    {
+        "Country": "Uzbekistan",
+        "Slug": "uzbekistan",
+        "ISO2": "UZ",
+        "latlng": [
+            41,
+            64
+        ]
+    },
+    {
+        "Country": "Mauritius",
+        "Slug": "mauritius",
+        "ISO2": "MU",
+        "latlng": [
+            -20.28333333,
+            57.55
+        ]
+    },
+    {
+        "Country": "Namibia",
+        "Slug": "namibia",
+        "ISO2": "NA",
+        "latlng": [
+            -22,
+            17
+        ]
+    },
+    {
+        "Country": "Congo (Kinshasa)",
+        "Slug": "congo-kinshasa",
+        "ISO2": "CD",
+        "latlng": [
+            0,
+            25
+        ]
+    },
+    {
+        "Country": "Guyana",
+        "Slug": "guyana",
+        "ISO2": "GY",
+        "latlng": [
+            5,
+            -59
+        ]
+    },
+    {
+        "Country": "Heard and Mcdonald Islands",
+        "Slug": "heard-and-mcdonald-islands",
+        "ISO2": "HM",
+        "latlng": [
+            -53.1,
+            72.5167
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Slug": "italy",
+        "ISO2": "IT",
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ]
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Slug": "kyrgyzstan",
+        "ISO2": "KG",
+        "latlng": [
+            41,
+            75
+        ]
+    },
+    {
+        "Country": "Mauritania",
+        "Slug": "mauritania",
+        "ISO2": "MR",
+        "latlng": [
+            20,
+            -12
+        ]
+    },
+    {
+        "Country": "Togo",
+        "Slug": "togo",
+        "ISO2": "TG",
+        "latlng": [
+            8,
+            1.16666666
+        ]
+    },
+    {
+        "Country": "Armenia",
+        "Slug": "armenia",
+        "ISO2": "AM",
+        "latlng": [
+            40,
+            45
+        ]
+    },
+    {
+        "Country": "Myanmar",
+        "Slug": "myanmar",
+        "ISO2": "MM",
+        "latlng": [
+            22,
+            98
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Slug": "south-africa",
+        "ISO2": "ZA",
+        "latlng": [
+            -29,
+            24
+        ]
+    },
+    {
+        "Country": "Virgin Islands, US",
+        "Slug": "virgin-islands",
+        "ISO2": "VI",
+        "latlng": [
+            18.35,
+            -64.933333
+        ]
+    },
+    {
+        "Country": "Gabon",
+        "Slug": "gabon",
+        "ISO2": "GA",
+        "latlng": [
+            -1,
+            11.75
+        ]
+    },
+    {
+        "Country": "Micronesia",
+        "Slug": "micronesia",
+        "ISO2": "FM",
+        "latlng": [
+            6.91666666,
+            158.25
+        ]
+    },
+    {
+        "Country": "United Kingdom",
+        "Slug": "united-kingdom",
+        "ISO2": "GB",
+        "latlng": [
+            54,
+            -2
+        ]
+    },
+    {
+        "Country": "Congo (Brazzaville)",
+        "Slug": "congo-brazzaville",
+        "ISO2": "CG",
+        "latlng": [
+            -1,
+            15
+        ]
+    },
+    {
+        "Country": "El Salvador",
+        "Slug": "el-salvador",
+        "ISO2": "SV",
+        "latlng": [
+            13.83333333,
+            -88.91666666
+        ]
+    },
+    {
+        "Country": "Suriname",
+        "Slug": "suriname",
+        "ISO2": "SR",
+        "latlng": [
+            4,
+            -56
+        ]
+    },
+    {
+        "Country": "Cayman Islands",
+        "Slug": "cayman-islands",
+        "ISO2": "KY",
+        "latlng": [
+            19.5,
+            -80.5
+        ]
+    },
+    {
+        "Country": "Netherlands",
+        "Slug": "netherlands",
+        "ISO2": "NL",
+        "latlng": [
+            52.5,
+            5.75
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Slug": "australia",
+        "ISO2": "AU",
+        "latlng": [
+            -27,
+            133
+        ]
+    },
+    {
+        "Country": "Georgia",
+        "Slug": "georgia",
+        "ISO2": "GE",
+        "latlng": [
+            42,
+            43.5
+        ]
+    },
+    {
+        "Country": "Pakistan",
+        "Slug": "pakistan",
+        "ISO2": "PK",
+        "latlng": [
+            30,
+            70
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Slug": "saudi-arabia",
+        "ISO2": "SA",
+        "latlng": [
+            25,
+            45
+        ]
+    },
+    {
+        "Country": "Svalbard and Jan Mayen Islands",
+        "Slug": "svalbard-and-jan-mayen-islands",
+        "ISO2": "SJ",
+        "latlng": [
+            78,
+            20
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Slug": "canada",
+        "ISO2": "CA",
+        "latlng": [
+            60,
+            -95
+        ]
+    },
+    {
+        "Country": "Ethiopia",
+        "Slug": "ethiopia",
+        "ISO2": "ET",
+        "latlng": [
+            8,
+            38
+        ]
+    },
+    {
+        "Country": "Lithuania",
+        "Slug": "lithuania",
+        "ISO2": "LT",
+        "latlng": [
+            56,
+            24
+        ]
+    },
+    {
+        "Country": "Madagascar",
+        "Slug": "madagascar",
+        "ISO2": "MG",
+        "latlng": [
+            -20,
+            47
+        ]
+    },
+    {
+        "Country": "Nepal",
+        "Slug": "nepal",
+        "ISO2": "NP",
+        "latlng": [
+            28,
+            84
+        ]
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Slug": "sao-tome-and-principe",
+        "ISO2": "ST",
+        "latlng": [
+            1,
+            7
+        ]
+    },
+    {
+        "Country": "US Minor Outlying Islands",
+        "Slug": "us-minor-outlying-islands",
+        "ISO2": "UM",
+        "latlng": [
+            19.2911437,
+            166.618332
+        ]
+    },
+    {
+        "Country": "Chile",
+        "Slug": "chile",
+        "ISO2": "CL",
+        "latlng": [
+            -30,
+            -71
+        ]
+    },
+    {
+        "Country": "Côte d'Ivoire",
+        "Slug": "cote-divoire",
+        "ISO2": "CI",
+        "latlng": [
+            8,
+            -5
+        ]
+    },
+    {
+        "Country": "Nauru",
+        "Slug": "nauru",
+        "ISO2": "NR",
+        "latlng": [
+            -0.53333333,
+            166.91666666
+        ]
+    },
+    {
+        "Country": "Qatar",
+        "Slug": "qatar",
+        "ISO2": "QA",
+        "latlng": [
+            25.5,
+            51.25
+        ]
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Slug": "saint-kitts-and-nevis",
+        "ISO2": "KN",
+        "latlng": [
+            17.33333333,
+            -62.75
+        ]
+    },
+    {
+        "Country": "Central African Republic",
+        "Slug": "central-african-republic",
+        "ISO2": "CF",
+        "latlng": [
+            7,
+            21
+        ]
+    },
+    {
+        "Country": "Ghana",
+        "Slug": "ghana",
+        "ISO2": "GH",
+        "latlng": [
+            8,
+            -2
+        ]
+    },
+    {
+        "Country": "Kenya",
+        "Slug": "kenya",
+        "ISO2": "KE",
+        "latlng": [
+            1,
+            38
+        ]
+    },
+    {
+        "Country": "Saint Pierre and Miquelon",
+        "Slug": "saint-pierre-and-miquelon",
+        "ISO2": "PM",
+        "latlng": [
+            46.83333333,
+            -56.33333333
+        ]
+    },
+    {
+        "Country": "Zimbabwe",
+        "Slug": "zimbabwe",
+        "ISO2": "ZW",
+        "latlng": [
+            -20,
+            30
+        ]
+    },
+    {
+        "Country": "Christmas Island",
+        "Slug": "christmas-island",
+        "ISO2": "CX",
+        "latlng": [
+            -10.5,
+            105.66666666
+        ]
+    },
+    {
+        "Country": "Denmark",
+        "Slug": "denmark",
+        "ISO2": "DK",
+        "latlng": [
+            56,
+            10
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Slug": "germany",
+        "ISO2": "DE",
+        "latlng": [
+            51,
+            9
+        ]
+    },
+    {
+        "Country": "Guadeloupe",
+        "Slug": "guadeloupe",
+        "ISO2": "GP",
+        "latlng": [
+            16.25,
+            -61.583333
+        ]
+    },
+    {
+        "Country": "Republic of Kosovo",
+        "Slug": "kosovo",
+        "ISO2": "XK",
+        "latlng": [
+            42.666667,
+            21.166667
+        ]
+    },
+    {
+        "Country": "Switzerland",
+        "Slug": "switzerland",
+        "ISO2": "CH",
+        "latlng": [
+            47,
+            8
+        ]
+    },
+    {
+        "Country": "Jamaica",
+        "Slug": "jamaica",
+        "ISO2": "JM",
+        "latlng": [
+            18.25,
+            -77.5
+        ]
+    },
+    {
+        "Country": "Pitcairn",
+        "Slug": "pitcairn",
+        "ISO2": "PN",
+        "latlng": [
+            -25.06666666,
+            -130.1
+        ]
+    },
+    {
+        "Country": "Seychelles",
+        "Slug": "seychelles",
+        "ISO2": "SC",
+        "latlng": [
+            -4.58333333,
+            55.66666666
+        ]
+    },
+    {
+        "Country": "Zambia",
+        "Slug": "zambia",
+        "ISO2": "ZM",
+        "latlng": [
+            -15,
+            30
+        ]
+    },
+    {
+        "Country": "Slovenia",
+        "Slug": "slovenia",
+        "ISO2": "SI",
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ]
+    },
+    {
+        "Country": "Yemen",
+        "Slug": "yemen",
+        "ISO2": "YE",
+        "latlng": [
+            15,
+            48
+        ]
+    },
+    {
+        "Country": "Bermuda",
+        "Slug": "bermuda",
+        "ISO2": "BM",
+        "latlng": [
+            32.33333333,
+            -64.75
+        ]
+    },
+    {
+        "Country": "Ecuador",
+        "Slug": "ecuador",
+        "ISO2": "EC",
+        "latlng": [
+            -2,
+            -77.5
+        ]
+    },
+    {
+        "Country": "French Guiana",
+        "Slug": "french-guiana",
+        "ISO2": "GF",
+        "latlng": [
+            4,
+            -53
+        ]
+    },
+    {
+        "Country": "Hong Kong, SAR China",
+        "Slug": "hong-kong-sar-china",
+        "ISO2": "HK",
+        "latlng": [
+            22.267,
+            114.188
+        ]
+    },
+    {
+        "Country": "Moldova",
+        "Slug": "moldova",
+        "ISO2": "MD",
+        "latlng": [
+            47,
+            29
+        ]
+    },
+    {
+        "Country": "Monaco",
+        "Slug": "monaco",
+        "ISO2": "MC",
+        "latlng": [
+            43.73333333,
+            7.4
+        ]
+    },
+    {
+        "Country": "Angola",
+        "Slug": "angola",
+        "ISO2": "AO",
+        "latlng": [
+            -12.5,
+            18.5
+        ]
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Slug": "brunei",
+        "ISO2": "BN",
+        "latlng": [
+            4.5,
+            114.66666666
+        ]
+    },
+    {
+        "Country": "Cape Verde",
+        "Slug": "cape-verde",
+        "ISO2": "CV",
+        "latlng": [
+            16,
+            -24
+        ]
+    },
+    {
+        "Country": "Kiribati",
+        "Slug": "kiribati",
+        "ISO2": "KI",
+        "latlng": [
+            1.41666666,
+            173
+        ]
+    },
+    {
+        "Country": "Marshall Islands",
+        "Slug": "marshall-islands",
+        "ISO2": "MH",
+        "latlng": [
+            9,
+            168
+        ]
+    },
+    {
+        "Country": "Azerbaijan",
+        "Slug": "azerbaijan",
+        "ISO2": "AZ",
+        "latlng": [
+            40.5,
+            47.5
+        ]
+    },
+    {
+        "Country": "Belize",
+        "Slug": "belize",
+        "ISO2": "BZ",
+        "latlng": [
+            17.25,
+            -88.75
+        ]
+    },
+    {
+        "Country": "Dominican Republic",
+        "Slug": "dominican-republic",
+        "ISO2": "DO",
+        "latlng": [
+            19,
+            -70.66666666
+        ]
+    },
+    {
+        "Country": "Ireland",
+        "Slug": "ireland",
+        "ISO2": "IE",
+        "latlng": [
+            53,
+            -8
+        ]
+    },
+    {
+        "Country": "Malta",
+        "Slug": "malta",
+        "ISO2": "MT",
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ]
+    },
+    {
+        "Country": "Nigeria",
+        "Slug": "nigeria",
+        "ISO2": "NG",
+        "latlng": [
+            10,
+            8
+        ]
+    },
+    {
+        "Country": "Syria",
+        "Slug": "syria",
+        "ISO2": "SY",
+        "latlng": [
+            35,
+            38
+        ]
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "Slug": "turks-and-caicos-islands",
+        "ISO2": "TC",
+        "latlng": [
+            21.75,
+            -71.58333333
+        ]
+    },
+    {
+        "Country": "Netherlands Antilles",
+        "Slug": "netherlands-antilles",
+        "ISO2": "AN",
+        "latlng": [
+            12.25,
+            -68.75
+        ]
+    },
+    {
+        "Country": "Cameroon",
+        "Slug": "cameroon",
+        "ISO2": "CM",
+        "latlng": [
+            6,
+            12
+        ]
+    },
+    {
+        "Country": "Vatican",
+        "Slug": "holy-see-vatican-city-state",
+        "ISO2": "VA",
+        "latlng": [
+            41.9,
+            12.45
+        ]
+    },
+    {
+        "Country": "Hungary",
+        "Slug": "hungary",
+        "ISO2": "HU",
+        "latlng": [
+            47,
+            20
+        ]
+    },
+    {
+        "Country": "Luxembourg",
+        "Slug": "luxembourg",
+        "ISO2": "LU",
+        "latlng": [
+            49.75,
+            6.16666666
+        ]
+    },
+    {
+        "Country": "Taiwan, Republic of China",
+        "Slug": "taiwan",
+        "ISO2": "TW",
+        "latlng": [
+            23.5,
+            121
+        ]
+    },
+    {
+        "Country": "Kazakhstan",
+        "Slug": "kazakhstan",
+        "ISO2": "KZ",
+        "latlng": [
+            48,
+            68
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Slug": "mexico",
+        "ISO2": "MX",
+        "latlng": [
+            23,
+            -102
+        ]
+    },
+    {
+        "Country": "Andorra",
+        "Slug": "andorra",
+        "ISO2": "AD",
+        "latlng": [
+            42.5,
+            1.5
+        ]
+    },
+    {
+        "Country": "Burkina Faso",
+        "Slug": "burkina-faso",
+        "ISO2": "BF",
+        "latlng": [
+            13,
+            -2
+        ]
+    },
+    {
+        "Country": "Greenland",
+        "Slug": "greenland",
+        "ISO2": "GL",
+        "latlng": [
+            72,
+            -40
+        ]
+    },
+    {
+        "Country": "India",
+        "Slug": "india",
+        "ISO2": "IN",
+        "latlng": [
+            20,
+            77
+        ]
+    },
+    {
+        "Country": "Tuvalu",
+        "Slug": "tuvalu",
+        "ISO2": "TV",
+        "latlng": [
+            -8,
+            178
+        ]
+    }
+]
