@@ -19,7 +19,7 @@ The COVIDATA App is a SwiftUI application designed to provide users with real-ti
 To run the app, clone the repository and open the project in Xcode:
 
 ```bash
-git clone https://github.com/yourusername/covidata-app.git
+git clone https://github.com/mehran-ramazanilar/CovidATA-iOS.git
 cd covidata-app
 open COVIDATAApp.xcodeproj
 ```
